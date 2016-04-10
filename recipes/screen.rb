@@ -1,6 +1,6 @@
 #
-# Cookbook Name:: screen
-# Recipe:: default
+# Cookbook Name:: linux_tools
+# Recipe:: screen
 #
 # Copyright 2016, vagrant@zurga.com
 #
